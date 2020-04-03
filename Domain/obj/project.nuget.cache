@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/ghS1lLf/jKugbrTsJvG98EVAAZhKXX/3J9xSsW3PS/+pu0Y85Ta2429lUEoRqmylg28E5fejFiG7GopUSr1eg==",
+  "dgSpecHash": "Ji7tGlzO5mqz4PLpod8eb6KmvFVmpBmJbfly43mqgYr9hM3Txfmwz3kBYbvqNoz7Ereat9pxGBbnyIk6V/Vv4g==",
   "success": true,
   "projectFilePath": "/Users/Dewald/Desktop/cproject/Domain/Domain.csproj",
-  "expectedPackageFiles": [
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
