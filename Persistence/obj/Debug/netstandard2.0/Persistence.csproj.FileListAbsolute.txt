@@ -1,0 +1,12 @@
+/Users/Dewald/Desktop/cproject/Persistence/bin/Debug/netstandard2.0/Persistence.deps.json
+/Users/Dewald/Desktop/cproject/Persistence/bin/Debug/netstandard2.0/Persistence.dll
+/Users/Dewald/Desktop/cproject/Persistence/bin/Debug/netstandard2.0/Persistence.pdb
+/Users/Dewald/Desktop/cproject/Persistence/bin/Debug/netstandard2.0/Domain.dll
+/Users/Dewald/Desktop/cproject/Persistence/bin/Debug/netstandard2.0/Domain.pdb
+/Users/Dewald/Desktop/cproject/Persistence/obj/Debug/netstandard2.0/Persistence.csprojAssemblyReference.cache
+/Users/Dewald/Desktop/cproject/Persistence/obj/Debug/netstandard2.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/Dewald/Desktop/cproject/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfoInputs.cache
+/Users/Dewald/Desktop/cproject/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfo.cs
+/Users/Dewald/Desktop/cproject/Persistence/obj/Debug/netstandard2.0/Persistence.csproj.CopyComplete
+/Users/Dewald/Desktop/cproject/Persistence/obj/Debug/netstandard2.0/Persistence.dll
+/Users/Dewald/Desktop/cproject/Persistence/obj/Debug/netstandard2.0/Persistence.pdb

@@ -1,0 +1,9 @@
+/Users/Dewald/Desktop/cproject/Domain/bin/Debug/netstandard2.0/Domain.deps.json
+/Users/Dewald/Desktop/cproject/Domain/bin/Debug/netstandard2.0/Domain.dll
+/Users/Dewald/Desktop/cproject/Domain/bin/Debug/netstandard2.0/Domain.pdb
+/Users/Dewald/Desktop/cproject/Domain/obj/Debug/netstandard2.0/Domain.csprojAssemblyReference.cache
+/Users/Dewald/Desktop/cproject/Domain/obj/Debug/netstandard2.0/Domain.csproj.CoreCompileInputs.cache
+/Users/Dewald/Desktop/cproject/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfoInputs.cache
+/Users/Dewald/Desktop/cproject/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfo.cs
+/Users/Dewald/Desktop/cproject/Domain/obj/Debug/netstandard2.0/Domain.dll
+/Users/Dewald/Desktop/cproject/Domain/obj/Debug/netstandard2.0/Domain.pdb

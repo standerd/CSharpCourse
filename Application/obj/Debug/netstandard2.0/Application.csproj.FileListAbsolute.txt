@@ -1,0 +1,14 @@
+/Users/Dewald/Desktop/cproject/Application/bin/Debug/netstandard2.0/Application.deps.json
+/Users/Dewald/Desktop/cproject/Application/bin/Debug/netstandard2.0/Application.dll
+/Users/Dewald/Desktop/cproject/Application/bin/Debug/netstandard2.0/Application.pdb
+/Users/Dewald/Desktop/cproject/Application/bin/Debug/netstandard2.0/Domain.dll
+/Users/Dewald/Desktop/cproject/Application/bin/Debug/netstandard2.0/Persistence.dll
+/Users/Dewald/Desktop/cproject/Application/bin/Debug/netstandard2.0/Domain.pdb
+/Users/Dewald/Desktop/cproject/Application/bin/Debug/netstandard2.0/Persistence.pdb
+/Users/Dewald/Desktop/cproject/Application/obj/Debug/netstandard2.0/Application.csprojAssemblyReference.cache
+/Users/Dewald/Desktop/cproject/Application/obj/Debug/netstandard2.0/Application.csproj.CoreCompileInputs.cache
+/Users/Dewald/Desktop/cproject/Application/obj/Debug/netstandard2.0/Application.AssemblyInfoInputs.cache
+/Users/Dewald/Desktop/cproject/Application/obj/Debug/netstandard2.0/Application.AssemblyInfo.cs
+/Users/Dewald/Desktop/cproject/Application/obj/Debug/netstandard2.0/Application.csproj.CopyComplete
+/Users/Dewald/Desktop/cproject/Application/obj/Debug/netstandard2.0/Application.dll
+/Users/Dewald/Desktop/cproject/Application/obj/Debug/netstandard2.0/Application.pdb

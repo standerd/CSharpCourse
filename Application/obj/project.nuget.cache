@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hjQI1BeUvfE/BE4WaTpB8/X+3zykLs6rPkf7XWrO83EuJ+SEIgKFsjoFnB54ZNnFVqTmXMlDy3rszLHnE4SGIw==",
+  "success": true,
+  "projectFilePath": "/Users/Dewald/Desktop/cproject/Application/Application.csproj",
+  "expectedPackageFiles": [
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
