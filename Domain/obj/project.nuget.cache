@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Ji7tGlzO5mqz4PLpod8eb6KmvFVmpBmJbfly43mqgYr9hM3Txfmwz3kBYbvqNoz7Ereat9pxGBbnyIk6V/Vv4g==",
+  "dgSpecHash": "kKEE/lsZIxYFkQlrdQWkFwrMdhTVG1xUljHfG6/juFm32+BLkOhumgIH2a+lGpfqwYge6xbmcpVuDBVC+kHseA==",
   "success": true,
   "projectFilePath": "/Users/Dewald/Desktop/cproject/Domain/Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/Dewald/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "/Users/Dewald/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "LVwwrkD5edAnWgdA7Ltpg2yRvxx4Q5UudPWn7qKoh0nnBekiR+UI+txzEVJw4+vlckwq92fnQDpTTN1kapyKFw==",
+  "dgSpecHash": "rIYKgkVIBduO03AjHm2rsAx8pi71DshPnZ7mAmx7gXwYkQXmyIDaVYwpE3Ui8v4EgIkG6esVIhml4UqanoGKfA==",
   "success": true,
   "projectFilePath": "/Users/Dewald/Desktop/cproject/Persistence/Persistence.csproj",
   "expectedPackageFiles": [
@@ -29,17 +29,16 @@
     "/Users/Dewald/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.2/sqlitepclraw.bundle_e_sqlite3.2.0.2.nupkg.sha512",
     "/Users/Dewald/.nuget/packages/sqlitepclraw.core/2.0.2/sqlitepclraw.core.2.0.2.nupkg.sha512",
     "/Users/Dewald/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.2/sqlitepclraw.lib.e_sqlite3.2.0.2.nupkg.sha512",
-    "/Users/Dewald/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.0.2/sqlitepclraw.provider.e_sqlite3.2.0.2.nupkg.sha512",
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.buffers/4.5.0/system.buffers.4.5.0.nupkg.sha512",
+    "/Users/Dewald/.nuget/packages/sqlitepclraw.provider.dynamic_cdecl/2.0.2/sqlitepclraw.provider.dynamic_cdecl.2.0.2.nupkg.sha512",
     "/Users/Dewald/.nuget/packages/system.collections.immutable/1.7.0/system.collections.immutable.1.7.0.nupkg.sha512",
     "/Users/Dewald/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "/Users/Dewald/.nuget/packages/system.diagnostics.diagnosticsource/4.7.0/system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512",
     "/Users/Dewald/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/Dewald/.nuget/packages/system.runtime.compilerservices.unsafe/4.7.0/system.runtime.compilerservices.unsafe.4.7.0.nupkg.sha512",
     "/Users/Dewald/.nuget/packages/system.text.encodings.web/4.7.0/system.text.encodings.web.4.7.0.nupkg.sha512",
     "/Users/Dewald/.nuget/packages/system.text.json/4.7.0/system.text.json.4.7.0.nupkg.sha512",
-    "/Users/Dewald/.nuget/packages/system.threading.tasks.extensions/4.5.2/system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+    "/Users/Dewald/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "/Users/Dewald/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
   ],
   "logs": []
 }

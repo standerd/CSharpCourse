@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "amqRYQPtpdwVfQZK6M6mwxLrudSng3TPDYRhNIE4gcmZio3GZLezaitUxjIW33/65yPyY0kGe8xodT8MF5SFZQ==",
+  "dgSpecHash": "z0mP1ofbEVGx6bt6B8NZvNFX2ztNYKoB2HBmJCz56Aw2v62TVpoC4tIghJER6c3MzXmpqp0R3OLQcq0T2ps0hQ==",
   "success": true,
   "projectFilePath": "/Users/Dewald/Desktop/cproject/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/Dewald/.nuget/packages/fluentvalidation/8.6.2/fluentvalidation.8.6.2.nupkg.sha512",
+    "/Users/Dewald/.nuget/packages/fluentvalidation.aspnetcore/8.6.2/fluentvalidation.aspnetcore.8.6.2.nupkg.sha512",
+    "/Users/Dewald/.nuget/packages/fluentvalidation.dependencyinjectionextensions/8.6.2/fluentvalidation.dependencyinjectionextensions.8.6.2.nupkg.sha512",
     "/Users/Dewald/.nuget/packages/mediatr/8.0.0/mediatr.8.0.0.nupkg.sha512",
     "/Users/Dewald/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/8.0.0/mediatr.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512",
     "/Users/Dewald/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.0/microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
