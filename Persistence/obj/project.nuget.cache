@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "rIYKgkVIBduO03AjHm2rsAx8pi71DshPnZ7mAmx7gXwYkQXmyIDaVYwpE3Ui8v4EgIkG6esVIhml4UqanoGKfA==",
+  "dgSpecHash": "CK+b/3umDa0GY5PFGeVzEBKGBiFTU6GqR5lD0qls3VsSKdmOUWb81g6TeKDHZWeTYrBoRXdB7DuREMPSHBwnAg==",
   "success": true,
   "projectFilePath": "/Users/Dewald/Desktop/cproject/Persistence/Persistence.csproj",
   "expectedPackageFiles": [
+    "/Users/Dewald/.nuget/packages/microsoft.aspnetcore.cryptography.internal/3.0.0/microsoft.aspnetcore.cryptography.internal.3.0.0.nupkg.sha512",
+    "/Users/Dewald/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/3.0.0/microsoft.aspnetcore.cryptography.keyderivation.3.0.0.nupkg.sha512",
+    "/Users/Dewald/.nuget/packages/microsoft.aspnetcore.identity.entityframeworkcore/3.0.0/microsoft.aspnetcore.identity.entityframeworkcore.3.0.0.nupkg.sha512",
     "/Users/Dewald/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.0/microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "/Users/Dewald/.nuget/packages/microsoft.bcl.hashcode/1.1.0/microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "/Users/Dewald/.nuget/packages/microsoft.data.sqlite.core/3.1.1/microsoft.data.sqlite.core.3.1.1.nupkg.sha512",
@@ -22,6 +25,8 @@
     "/Users/Dewald/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.1/microsoft.extensions.dependencyinjection.3.1.1.nupkg.sha512",
     "/Users/Dewald/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.1/microsoft.extensions.dependencyinjection.abstractions.3.1.1.nupkg.sha512",
     "/Users/Dewald/.nuget/packages/microsoft.extensions.dependencymodel/3.1.1/microsoft.extensions.dependencymodel.3.1.1.nupkg.sha512",
+    "/Users/Dewald/.nuget/packages/microsoft.extensions.identity.core/3.0.0/microsoft.extensions.identity.core.3.0.0.nupkg.sha512",
+    "/Users/Dewald/.nuget/packages/microsoft.extensions.identity.stores/3.0.0/microsoft.extensions.identity.stores.3.0.0.nupkg.sha512",
     "/Users/Dewald/.nuget/packages/microsoft.extensions.logging/3.1.1/microsoft.extensions.logging.3.1.1.nupkg.sha512",
     "/Users/Dewald/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.1/microsoft.extensions.logging.abstractions.3.1.1.nupkg.sha512",
     "/Users/Dewald/.nuget/packages/microsoft.extensions.options/3.1.1/microsoft.extensions.options.3.1.1.nupkg.sha512",
