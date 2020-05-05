@@ -86,3 +86,4 @@
 /Users/Dewald/Desktop/cproject/API/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 /Users/Dewald/Desktop/cproject/API/bin/Debug/netcoreapp3.1/Castle.Core.dll
 /Users/Dewald/Desktop/cproject/API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Proxies.dll
+/Users/Dewald/Desktop/cproject/API/bin/Debug/netcoreapp3.1/CloudinaryDotNet.dll
